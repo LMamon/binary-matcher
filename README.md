@@ -1,6 +1,6 @@
 # binary-matcher
 
-Adapted from [CUDAHammingMean](https://github.com/komrad36/CUDAHammingMean.git) for modern CUDA toolchains and NVIDIA Jetson.
+Adapted from [CUDAHammingMean](https://github.com/komrad36/CUDAHammingMean.git) for modern CUDA toolchains and NVIDIA Jetson (CC 8.7).
 
 Provides CUDA primitives for pairwise Hamming-distance matching between 256-bit binary descriptors using shared-memory caching and warp-level reductions.
 
